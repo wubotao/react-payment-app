@@ -13,11 +13,20 @@ npm start
 npm test
 ```
 
-* Homepage URL: http://localhost:3000/
 
 * Merchant account config: ```.env```
 
 * MySQL and Redis config: ```.env```
 
 * Test card ```4111 1111 1111 1111```
+
+
+---
+
+* Deploy
+
+```
+npm run build
+npm run start-prod
+```
 
