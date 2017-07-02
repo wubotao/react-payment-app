@@ -1,5 +1,7 @@
 * Based on ES6, Babel, Webpack, Node.js, React, Redux, and Bootstrap.
 
+* Use MySQL as the database and Redis as the cache.
+
 * Run the app
 
 ```
